@@ -14,5 +14,7 @@ namespace ConsoleApplication1
         // shash
 
         //change made with vs git
+
+        // more changes after the sync
     }
 }
