@@ -9,5 +9,7 @@ namespace ConsoleApplication1
     class NewCl
     {
         // f1 change
+
+        //master change
     }
 }
