@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         // f1 change
 
+<<<<<<< Updated upstream
         //master change
+=======
         // shash
+>>>>>>> Stashed changes
     }
 }
